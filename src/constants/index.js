@@ -184,17 +184,17 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "Research & Project Intern",
-    company_name: "Samsung R&D Institute @ Banglore",
-    icon: samsung,
+   {
+    title: "AI & Data Analyst Intern ",
+    company_name: "Sirius AI @ Gurugram",
+    icon: sirius,
     iconBg: "#383E56",
-    date: "Jan 2024 - June 2024",
+    date: "June 2025 - July 2025",
     points: [
-      "Designed and implemented GenAI-based Autogen solutions to support custom Matter features in SmartThings PLatform.",
+      "This internship is a valuable opportunity to dive into real-world applications of artificial intelligence, work hands-on with impactful data, and learn from an inspiring team of innovators.",
     ],
   },
-  {
+    {
     title: "Speech-to-Text Captioning Intern",
     company_name: "Samsung R&D Institute @ Banglore",
     icon: samsung,
@@ -205,15 +205,16 @@ const experiences = [
     ],
   },
   {
-    title: "AI & Data Analyst Intern ",
-    company_name: "Sirius AI @ Gurugram",
-    icon: sirius,
+    title: "Research & Project Intern",
+    company_name: "Samsung R&D Institute @ Banglore",
+    icon: samsung,
     iconBg: "#383E56",
-    date: "June 2025 - July 2025",
+    date: "Jan 2024 - June 2024",
     points: [
-      "This internship is a valuable opportunity to dive into real-world applications of artificial intelligence, work hands-on with impactful data, and learn from an inspiring team of innovators.",
+      "Designed and implemented GenAI-based Autogen solutions to support custom Matter features in SmartThings PLatform.",
     ],
   },
+ 
 ];
 const projects = [
   {

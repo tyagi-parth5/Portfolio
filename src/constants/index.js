@@ -103,7 +103,7 @@ export const certificates = [
     issuer: "Thapar Institute of Engineering & Technology",
     date: "Dec 2024",
     icon: tiLogo,
-    link: "https://www.thapar.edu/upload/files/1)Final%20list%20of%20TIET%20Merit%20Scholarship%20(PG%20&%20UG)%20for%202024-25.pdf",
+    link: "https://drive.google.com/file/d/1J54y-0q3umdCOC77Ekx8hLkdSRKBioPB/view?usp=sharing",
   },
   {
     title: "Certificate of Exellence",

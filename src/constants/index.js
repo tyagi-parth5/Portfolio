@@ -103,9 +103,7 @@ export const certificates = [
     issuer: "Thapar Institute of Engineering & Technology",
     date: "Dec 2024",
     icon: tiLogo,
-    link: "",
-    description:
-      "Awarded TIET Merit-Based Scholarship worth ₹1,92,100, granted to the top 10% of students based on 2ⁿᵈ academic year performance.",
+    link: "https://www.thapar.edu/upload/files/1)Final%20list%20of%20TIET%20Merit%20Scholarship%20(PG%20&%20UG)%20for%202024-25.pdf",
   },
   {
     title: "Certificate of Exellence",

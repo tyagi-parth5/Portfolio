@@ -92,18 +92,18 @@ export const education = [
 
 export const certificates = [
   {
-    title: "Certificate of Exellence",
-    issuer: "Samsung Research",
-    date: "August 2024",
-    icon: samsung,
-    link: "https://drive.google.com/file/d/1MXoBNt9Q2I8Uvg8WIq4sHhl_BhmsCmgU/view?usp=sharing",
-  },
-  {
     title: "Certificate of Completion",
     issuer: "Samsung Research",
     date: "May 2025",
     icon: samsung,
     link: "https://drive.google.com/file/d/1uO5CMYwRaIZGTWZEU7BEL2l4DmkbaSl1/view?usp=sharing",
+  },
+  {
+    title: "Certificate of Exellence",
+    issuer: "Samsung Research",
+    date: "August 2024",
+    icon: samsung,
+    link: "https://drive.google.com/file/d/1MXoBNt9Q2I8Uvg8WIq4sHhl_BhmsCmgU/view?usp=sharing",
   },
   {
     title: "2ⁿᵈ Best Project @ SummerHacks'24",

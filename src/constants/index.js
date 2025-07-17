@@ -99,6 +99,15 @@ export const certificates = [
     link: "https://drive.google.com/file/d/1uO5CMYwRaIZGTWZEU7BEL2l4DmkbaSl1/view?usp=sharing",
   },
   {
+    title: "TIET Merit-based Scholarship",
+    issuer: "Thapar Institute of Engineering & Technology",
+    date: "Dec 2024",
+    icon: tiLogo,
+    link: "",
+    description:
+      "Awarded TIET Merit-Based Scholarship worth ₹1,92,100, granted to the top 10% of students based on 2ⁿᵈ academic year performance.",
+  },
+  {
     title: "Certificate of Exellence",
     issuer: "Samsung Research",
     date: "August 2024",
@@ -113,6 +122,7 @@ export const certificates = [
     link: "https://drive.google.com/file/d/1qNMtu9SFN5spTALq2IccSEsL58AV651_/view?usp=sharing",
   },
 ];
+
 
 const services = [
   {

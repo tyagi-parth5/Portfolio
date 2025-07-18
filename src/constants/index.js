@@ -83,7 +83,7 @@ export const education = [
   {
     date: "April 2019 – March 2020",
     institution: "Springfields Public School, Yamuna Nagar",
-    degree: "10th | Percentage: 94.2%",
+    degree: "10th | Percentage: 94.8%",
     icon: spsLogo,
     iconBg: "#383E56",
     details: [],

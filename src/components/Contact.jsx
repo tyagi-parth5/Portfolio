@@ -34,7 +34,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="mb-1 hover:underline"
             >
-              📧 tyagiparth65@gmail.com
+              📧 parthtyagi586@gmail.com
             </a>
             <a
               href="https://mail.google.com/mail/?view=cm&fs=1&to=ptyagi_be22@thapar.edu"

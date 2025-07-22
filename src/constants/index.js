@@ -34,7 +34,7 @@ sirius,
 export const navLinks = [
   {
     title: "Resume",
-    url: "https://drive.google.com/file/d/1Y93Z0rCCJoOAzYXqn3yol9gu3jltEyNm/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1mJs_Zx9M7LQvRl8ftg9w36PMg7L4ipLH/view?usp=sharing",
   },
   {
     id: "about",
